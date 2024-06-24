@@ -17,3 +17,6 @@ Dataset encontrado em: https://www.kaggle.com/datasets/anshtanwar/pets-facial-ex
 ```
 
 selecione o kernel correto no notebook
+
+## Possíveis problemas
+ Em caso de erros durante a instalação do TensorFlow, verifique se o LongPathEnabled está habilitado em sua máquina.
