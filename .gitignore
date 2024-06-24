@@ -1,0 +1,7 @@
+.venv
+poetry.lock
+images/**/*.jpg
+my-pets/*
+models/*
+
+!*/.gitkeep
